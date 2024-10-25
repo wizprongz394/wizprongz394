@@ -47,4 +47,4 @@ Beyond fiction, I enjoy expressing creativity through **graphic design** and am 
 
 ---
 
-> "Striving to blend technology and creativity to make a lasting impact."
+> "Miles to go before I sleep - Robert Frost."
