@@ -1,50 +1,64 @@
-# Hi there, I'm Ritodip Dewry 👋
+# Hi, I'm Ritodip 👋
 
-### 👨‍💻 About Me
-I'm an enthusiastic IT student in my 3rd year with a passion for **Android Development**, **Artificial Intelligence**, and **Software Engineering**. I thrive on building meaningful projects and envision contributing to the tech world by developing impactful applications. From creating apps that connect people directly with resources to building real-time gesture recognition solutions, I'm all about turning ideas into reality.
+### Software Developer | Full Stack | Cross Paltform | Exploring AI + Cybersecurity
 
-- 🔭 Currently working on an **Android app** to aggregate fanfiction from AO3 and Wattpad
-- 🌱 Learning **Java**, **Python**, **C**, and **Web Development (HTML, CSS, JavaScript)**
-- 🎨 Aspiring to blend **graphic design** with software development for better user experiences
-- 💡 Interested in **AI Chatbots** and **Machine Learning**.
+I enjoy reading fiction and building things that actually *do something useful* — from full-stack apps to mobile tools.
+
+Currently working with **React, Next.js, Node.js, and Java**, and lately I’ve been diving into **AI-assisted systems and cybersecurity concepts**, exploring how intelligent systems and secure architectures can work together.
 
 ---
 
-### 🚀 Skills & Technologies
-- **Languages**: Java, Python, C, HTML, CSS, JavaScript
-- **Android Development**: Android Studio, App UI/UX, API integration
-- **Web Development**: Responsive design, animations
-- **Tools**: Visual Studio Code, GitHub
-- **Design**: Graphic Design, Aesthetic UI in Android and Web apps
----
+## 🚀 Projects
 
-### 💼 Projects
-- **RitoBot**: A fully functional interactive chatbot with a custom, aesthetic UI
-- **Mecook**: An application that helps users find recipes based on available ingredients
-- **TicTacToe**: A classic TicTacToe game with a clean, intuitive interface
-- **BMI Calculator**: A simple app that calculates Body Mass Index based on user input
-- **SensorReader to CSV Converter**: A tool to capture sensor data and export it as a CSV file for easy data analysis.
----
+### 🟢 Expresso – Cafe Discovery App
+- Built a location-aware app with real-time maps and place discovery  
+- Integrated Mapbox and OpenStreetMap APIs  
+- Experimented with LLM-based recommendation logic  
+- Added a group meetup feature using centroid-based calculations  
 
-### 🎉 Skills and Interests
-I'm a Bengali with a deep love for **world literature** and **fiction** that spans genres and cultures. As a **Potterhead** and a fantasy lover, I enjoy delving into magical worlds like *Harry Potter* and *The Lord of the Rings*. I also love **Hollywood films**, especially those with plot twists, and animated movies with emotional depth. Films like *The Shawshank Redemption* and *The Dark Knight* hold a special place in my heart.
-
-Beyond fiction, I enjoy expressing creativity through **graphic design** and am skilled in **Android development**, **web development**, and **problem-solving** in tech. With a constant drive to learn, I focus on blending technical skills with creative elements to make a meaningful impact.
+**Tech:** Next.js, TypeScript, MongoDB, Mapbox, OSM API  
 
 ---
 
-### 📈 Goals
-- **Master Android Development** and create applications that make a difference
-- Start my own company focused on **technology for social good**
-- Excel in **Software Engineering** and gain expertise in AI and ML
+### 🟡 GIS UI + Backend System
+- Created a geospatial platform with interactive maps  
+- Built REST APIs for spatial queries  
+- Worked with SQL (PostGIS) and MongoDB  
+
+**Tech:** React, Node.js, Express, SQL, MongoDB  
 
 ---
 
-### 📫 Let's Connect!
-- **Email**: ritodippotterhead@example.com
-- **LinkedIn**: [Ritodip Dewry](https://www.linkedin.com/in/ritodip-dewry)
-- **GitHub**: [RitodipDewry](https://github.com/RitodipDewry)
+### 🔵 MeCook – Android App
+- Recipe manager with local storage and clean UI  
+- Focused on usability and smooth navigation  
+
+**Tech:** Java, Android Studio, XML  
 
 ---
 
-> "Miles to go before I sleep - Robert Frost."
+## 🧠 Tech I Work With
+
+**Languages:** Java, JavaScript, TypeScript, Python  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, SQL  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🌱 Currently Exploring
+- AI integrations (LLMs, smart systems)
+- Cybersecurity fundamentals
+- Backend system design
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/ritodip-dewry
+- Instagram: https://www.instagram.com/damn.it.prongz/
+- Email: ritodippotterhead@gmail.com  
+
+---
+
+> I am nothing in my soul, if not obessesive.
